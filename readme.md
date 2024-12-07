@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-<img src="./frontend/public/screens/1.png">
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/1.PNG">
 
 It is a full-featured shopping cart with PayPal & credit/debit payments.
 
