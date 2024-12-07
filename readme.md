@@ -111,6 +111,7 @@ john@email.com (Customer)
 <img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/8.PNG">
 <img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/9.PNG">
 <img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/10.PNG">
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/11.PNG">
 
 
 
