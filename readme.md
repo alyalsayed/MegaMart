@@ -101,4 +101,18 @@ john@email.com (Customer)
 
 ```
 
+# ScreenShots
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/2.PNG">
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/3.PNG">
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/4.PNG">
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/5.PNG">
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/6.PNG">
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/7.PNG">
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/8.PNG">
+<img src="https://github.com/alyalsayed/MegaMart/blob/main/frontend/public/screens/9.PNG">
+
+
+
+
+
 ---
